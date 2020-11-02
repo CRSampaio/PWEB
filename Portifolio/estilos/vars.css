@@ -1,0 +1,14 @@
+:root{
+	--bright-sun: #FFD43B;
+	/*--bright-sun: #00b6ed;*/
+	--concrete: #f2f2f2;
+	--mirage: #1b1f2b;
+	--brown-rust: black;
+	--metallic-bronze: #472c1c;
+
+	--logo-font: 'Arial', normal;
+	--headline-font: 'Arial', serif;
+	--default-font: 'arial', sans-serif;
+
+	font-family: var(--default-font);
+}
